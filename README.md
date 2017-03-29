@@ -18,3 +18,7 @@ https://github.com/Unknwon/the-way-to-go_ZH_CN
 https://github.com/rust-lang/book
 
 https://github.com/KaiserY/rust-book-chinese
+
+# 数据库
+
+https://github.com/sous-chefs/postgresql
