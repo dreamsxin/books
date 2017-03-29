@@ -19,6 +19,14 @@ https://github.com/rust-lang/book
 
 https://github.com/KaiserY/rust-book-chinese
 
+# 算法
+
+https://github.com/julycoding/The-Art-Of-Programming-By-July
+
 # 数据库
 
 https://github.com/sous-chefs/postgresql
+
+# 服务器管理
+
+https://github.com/18z/abs
