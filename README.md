@@ -23,6 +23,10 @@ https://github.com/KaiserY/rust-book-chinese
 
 https://github.com/julycoding/The-Art-Of-Programming-By-July
 
+# 神经网络
+
+https://hit-scir.gitbooks.io/neural-networks-and-deep-learning-zh_cn
+
 # 数据库
 
 https://github.com/sous-chefs/postgresql
