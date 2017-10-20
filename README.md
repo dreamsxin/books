@@ -34,3 +34,9 @@ https://github.com/sous-chefs/postgresql
 # 服务器管理
 
 https://github.com/18z/abs
+
+# 台大文史哲学报
+
+http://homepage.ntu.edu.tw/~bcla/
+
+http://homepage.ntu.edu.tw/~bcla/e_book/
