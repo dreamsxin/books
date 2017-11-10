@@ -1,4 +1,5 @@
 # books
+
 各类书籍
 
 # 规范
@@ -26,6 +27,10 @@ https://github.com/julycoding/The-Art-Of-Programming-By-July
 # 神经网络
 
 https://hit-scir.gitbooks.io/neural-networks-and-deep-learning-zh_cn
+
+# 区块链
+
+https://github.com/yeasy/blockchain_guide/
 
 # 数据库
 
