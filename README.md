@@ -36,6 +36,8 @@ https://github.com/yeasy/blockchain_guide/
 
 https://github.com/sous-chefs/postgresql
 
+https://github.com/postgres-cn/pgdoc-cn
+
 # 服务器管理
 
 https://github.com/18z/abs
