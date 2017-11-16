@@ -42,6 +42,10 @@ https://github.com/postgres-cn/pgdoc-cn
 
 https://github.com/18z/abs
 
+# Git
+
+https://github.com/rogerdudler/git-guide
+
 # 台大文史哲学报
 
 http://homepage.ntu.edu.tw/~bcla/
