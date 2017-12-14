@@ -20,6 +20,8 @@ https://github.com/rust-lang/book
 
 https://github.com/KaiserY/rust-book-chinese
 
+https://www.gitbook.com/book/imyoungyang/php7-study-group-notes/details
+
 # 算法
 
 https://github.com/julycoding/The-Art-Of-Programming-By-July
