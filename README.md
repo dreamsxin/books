@@ -12,6 +12,8 @@ https://github.com/GuoYongfeng/book
 
 # 编程语言
 
+https://github.com/jobbole/awesome-programming-books
+
 https://github.com/jollen/nodejs-fullstack-book
 
 https://github.com/Unknwon/the-way-to-go_ZH_CN
@@ -25,6 +27,8 @@ https://www.gitbook.com/book/imyoungyang/php7-study-group-notes/details
 # 算法
 
 https://github.com/julycoding/The-Art-Of-Programming-By-July
+
+https://github.com/scalad/Note
 
 # 神经网络
 
