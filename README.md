@@ -10,6 +10,8 @@ https://github.com/1sters/material_design_zh
 
 https://github.com/DocsHome/microservices
 
+https://github.com/eacdy/spring-cloud-book
+
 # 前端
 
 https://github.com/GuoYongfeng/book
