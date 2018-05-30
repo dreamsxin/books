@@ -30,6 +30,8 @@ https://github.com/KaiserY/rust-book-chinese
 
 https://www.gitbook.com/book/imyoungyang/php7-study-group-notes/details
 
+https://github.com/quanke/think-in-java
+
 # 算法
 
 https://github.com/julycoding/The-Art-Of-Programming-By-July
