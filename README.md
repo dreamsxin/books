@@ -32,6 +32,12 @@ https://www.gitbook.com/book/imyoungyang/php7-study-group-notes/details
 
 https://github.com/quanke/think-in-java
 
+# 游戏
+
+https://github.com/horstjens/ThePythonGameBook
+
+https://github.com/miloyip/game-programmer
+
 # 算法
 
 https://github.com/julycoding/The-Art-Of-Programming-By-July
