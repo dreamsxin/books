@@ -71,3 +71,7 @@ https://github.com/rogerdudler/git-guide
 http://homepage.ntu.edu.tw/~bcla/
 
 http://homepage.ntu.edu.tw/~bcla/e_book/
+
+# 其他
+
+http://atcm.mathandtech.org/EP2015/invited.html
