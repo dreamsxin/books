@@ -18,6 +18,14 @@ https://github.com/GuoYongfeng/book
 
 # 编程语言
 
+https://github.com/rust-lang/book
+
+https://github.com/KaiserY/trpl-zh-cn
+
+https://kaisery.github.io/trpl-zh-cn/
+
+https://github.com/KaiserY/rust-book-chinese
+
 https://github.com/MilesChou/articles/tree/master/src/ironman-start-golang-30-days
 
 https://github.com/jobbole/awesome-programming-books
