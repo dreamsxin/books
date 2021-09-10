@@ -88,6 +88,9 @@ http://homepage.ntu.edu.tw/~bcla/e_book/
 
 https://mdx.mdict.org/%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E5%B7%A5%E5%85%B7%E4%B9%A6/
 
+* 社会工作
+http://www.raduga.com.cn/skwx_eypt/Search.aspx
+
 # 其他
 
 http://atcm.mathandtech.org/EP2015/invited.html
