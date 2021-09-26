@@ -20,6 +20,8 @@ https://github.com/GuoYongfeng/book
 
 # 编程语言
 
+http://docs.linuxtone.org/ebooks/
+
 https://github.com/rust-lang/book
 
 https://github.com/KaiserY/trpl-zh-cn
