@@ -104,3 +104,7 @@ https://blog.csdn.net/cjzjolly/article/details/94739740
 https://github.com/triceam/HTML5-Canvas-Brush-Sketch
 
 http://www.grpc.io/docs/
+
+https://www.tianlangbooks.com/
+
+https://sobooks.cc/
