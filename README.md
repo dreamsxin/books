@@ -108,3 +108,5 @@ http://www.grpc.io/docs/
 https://www.tianlangbooks.com/
 
 https://sobooks.cc/
+
+https://setosa.io/ev/image-kernels/
