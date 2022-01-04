@@ -112,3 +112,5 @@ https://www.tianlangbooks.com/
 https://sobooks.cc/
 
 https://setosa.io/ev/image-kernels/
+
+https://github.com/bagder/http3-explained
