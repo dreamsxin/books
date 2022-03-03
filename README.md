@@ -20,6 +20,8 @@ https://github.com/GuoYongfeng/book
 
 # 编程语言
 
+https://tiancaiamao.gitbooks.io/go-internals/content/zh/
+
 http://docs.linuxtone.org/ebooks/
 
 https://github.com/rust-lang/book
