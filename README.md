@@ -104,6 +104,10 @@ https://mdx.mdict.org/%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E5%B7%A5%E5%85%B7%E4%
 
 http://www.raduga.com.cn/skwx_eypt/Search.aspx
 
+# 图书馆书籍查询
+
+浙江图书馆检索平台 https://opac.zjlib.cn/opac/index
+
 # 其他
 
 https://zh.book4you.org/
