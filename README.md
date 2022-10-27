@@ -112,6 +112,8 @@ http://www.raduga.com.cn/skwx_eypt/Search.aspx
 
 https://zh.book4you.org/
 
+https://hi.dk1lib.org/
+
 https://oyjy.wzlib.cn/search?w=%E6%B0%91%E9%97%B4%E6%96%87%E5%AD%A6&pn=3
 
 http://atcm.mathandtech.org/EP2015/invited.html
