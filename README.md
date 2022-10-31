@@ -112,6 +112,8 @@ http://www.raduga.com.cn/skwx_eypt/Search.aspx
 
 https://digicol.dpm.org.cn/
 
+https://lybwg.museumcloud.com.cn/
+
 https://m.chnmuseum.cn/portals/0/web/zt/202109lhwf/home/
 
 # 其他
