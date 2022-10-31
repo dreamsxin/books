@@ -108,6 +108,12 @@ http://www.raduga.com.cn/skwx_eypt/Search.aspx
 
 浙江图书馆检索平台 https://opac.zjlib.cn/opac/index
 
+# 博物馆
+
+https://digicol.dpm.org.cn/
+
+https://m.chnmuseum.cn/portals/0/web/zt/202109lhwf/home/
+
 # 其他
 
 https://zh.book4you.org/
