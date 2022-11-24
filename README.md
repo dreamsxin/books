@@ -142,6 +142,8 @@ https://setosa.io/ev/image-kernels/
 
 https://github.com/bagder/http3-explained
 
+http://www.fxjyzy.com:8080/ebook/ftpupload/
+
 ## 工艺
 
 https://hdqwhg.com/digital/culturals 海淀区非遗资源库
